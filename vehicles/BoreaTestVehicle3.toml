@@ -1,0 +1,13 @@
+spec_version = 1
+id = "BoreaTestVehicle3"
+type = "vehicle"
+name = "Borea Test Vehicle 3"
+authors = ["Maxi"]
+abstract = "A test vehicle for the first share host. It will be removed again."
+license = "CC-BY-4.0"
+
+[links]
+homepage = "https://ksamods.gg/vehicles/BoreaTestVehicle3"
+
+[releases]
+ksamods = "BoreaTestVehicle3"
